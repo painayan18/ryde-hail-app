@@ -4,15 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c0c3c256-2f49-4eec-b55a-bb108952cfc2" name="Changes" comment="initial file(tab) structure">
-      <change afterPath="$PROJECT_DIR$/components/CustomButton.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/constants/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/types/image.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/types/type.d.ts" afterDir="false" />
+    <list default="true" id="c0c3c256-2f49-4eec-b55a-bb108952cfc2" name="Changes" comment="onboarding layout">
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/(auth)/welcome.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(auth)/welcome.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(root)/(tabs)/home.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(root)/(tabs)/home.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +67,7 @@
     &quot;node.js.selected.package.standard&quot;: &quot;&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;Errors&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
     &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\phant\\Documents\\Projects\\ryde-app\\node_modules\\typescript\\lib&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
@@ -98,7 +93,12 @@
       <workItem from="1725521154566" duration="675000" />
       <workItem from="1725521840895" duration="1957000" />
       <workItem from="1725523825815" duration="2673000" />
-      <workItem from="1725526529706" duration="2431000" />
+      <workItem from="1725526529706" duration="2827000" />
+      <workItem from="1725675057756" duration="922000" />
+      <workItem from="1725677500509" duration="185000" />
+      <workItem from="1725677693411" duration="2045000" />
+      <workItem from="1725847192325" duration="3262000" />
+      <workItem from="1726361509641" duration="2414000" />
     </task>
     <task id="LOCAL-00001" summary="initial setup">
       <option name="closed" value="true" />
@@ -132,7 +132,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725526596609</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="onboarding layout">
+      <option name="closed" value="true" />
+      <created>1725529370458</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1725529370458</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -153,6 +161,7 @@
     <MESSAGE value="initial setup" />
     <MESSAGE value="Update README.md" />
     <MESSAGE value="initial file(tab) structure" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial file(tab) structure" />
+    <MESSAGE value="onboarding layout" />
+    <option name="LAST_COMMIT_MESSAGE" value="onboarding layout" />
   </component>
 </project>
