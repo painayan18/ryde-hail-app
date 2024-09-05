@@ -1,0 +1,4 @@
+diff --git a/app/(root)/_layout.tsx b/app/(root)/_layout.tsx
+new file mode 100644
+diff --git a/app/(root)/(tabs)/_layout.tsx b/app/(root)/(tabs)/_layout.tsx
+new file mode 100644
